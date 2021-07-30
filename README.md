@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🧢 Obey - 19 years old
+
+
+### 👾 Discord: Obey³#7151
 
 <!--
 **Obeeyyyy/Obeeyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
