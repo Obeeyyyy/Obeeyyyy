@@ -11,6 +11,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Contact</b>
 <br>
 
-<div width="200px" height="50px" background="#36393F">
+<div width=200px height=50px background=#36393F>
   Obey³#9051
 </div>
