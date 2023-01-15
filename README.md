@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SkySlayer.de+Owner+and+lead+Developer)](https://git.io/typing-svg)
+
 ### 🧢 Obey - 21 years old
 
 
