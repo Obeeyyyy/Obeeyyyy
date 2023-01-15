@@ -7,3 +7,5 @@
 </p>
 <p align="center"><img src="https://media.discordapp.net/attachments/1030475421118119957/1049008943248199762/eyes.gif"></p><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
