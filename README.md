@@ -6,7 +6,7 @@
   <a href"https://builtbybit.com/resources/crownjobs.46852/">CrownJobs</a>
   <a href"https://builtbybit.com/resources/crowntombs.45426/">CrownTombs</a>
 </div>
-
+<br>
 <div width=200px height=50px background=#36393F>
-  Obey³#9051
+  My discord: @Obeeyyyy
 </div>
